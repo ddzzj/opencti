@@ -8898,10 +8898,10 @@ html-to-image@1.7.0:
   resolved "https://registry.yarnpkg.com/html-to-image/-/html-to-image-1.7.0.tgz#4ca93bb90c0b9392edaafbfd5d94e8f0d666e18b"
   integrity sha512-6egK8mOXMw82nLjj5g3ohERuzrTglgR9+Q6A2cqa7UiuSSKHuFxpABZJSfZztj0EdLC6tAePZJAhjPr4bbU9tw==
 
-html-to-pdfmake@^2.3.4:
-  version "2.3.4"
-  resolved "https://registry.yarnpkg.com/html-to-pdfmake/-/html-to-pdfmake-2.3.4.tgz#1611c0eef82ea9a3bf3f25a3fd8a62a0127cbd78"
-  integrity sha512-bE59avuJN+evzyuCBel2awZtdX2en+qNnEBUtv8+150r4RAmiv5o4zvtbRh+w3aE8g7pYbpk8mYb00TQ6qf9xw==
+html-to-pdfmake@^2.4.25:
+  version "2.4.26"
+  resolved "https://registry.yarnpkg.com/html-to-pdfmake/-/html-to-pdfmake-2.4.26.tgz#f486427e2e400cdf81de30739e85e801da1791cc"
+  integrity sha512-VofeaAJ3qW5FLbM7WsJeEswaatHofNAfuxV0GAI4ClJRRDaJq7Cz0NmaxbgKCKF9HMIJ56QEmJtd0YqMTXqSog==
 
 html-void-elements@^1.0.0:
   version "1.0.5"
