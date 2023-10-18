@@ -16229,10 +16229,10 @@ suneditor-react@^3.3.0:
   resolved "https://registry.yarnpkg.com/suneditor-react/-/suneditor-react-3.3.0.tgz#06f6cef81c10a5a3e27af106eaea91068afad6c1"
   integrity sha512-FB0C7/52MoXtAr96ACTJU3WUHAlSKTd0GnLGj8cKuXW8L8KtUOvxzXn7qGzhJS/hL9HcQCRYz1UHKUdtGIbwUg==
 
-suneditor@^2.41.3:
-  version "2.41.3"
-  resolved "https://registry.yarnpkg.com/suneditor/-/suneditor-2.41.3.tgz#2eb70d5c793ed50eab3ba2d282e984e076bb217e"
-  integrity sha512-V4Hz1PY2MhIhw2Lf1iInjEhuVp65B5EbqKb8GpBluZDfx3MnZnNm5v/+Ssr1rV9swTCUWOsl8Qo92KhLMZIllA==
+suneditor@^2.45.1:
+  version "2.45.1"
+  resolved "https://registry.yarnpkg.com/suneditor/-/suneditor-2.45.1.tgz#5ce56a2d67bfd31e2c21f777cc7f5a522631eb06"
+  integrity sha512-fLxc0nLwd77vaPuf78D+VAFNAgX9hLps6h96JA/LUCpqt4LeYnEaIE1RfJojX+BhSA+krl5qZ8pdgqcoo3dN3g==
 
 supports-color@^2.0.0:
   version "2.0.0"
