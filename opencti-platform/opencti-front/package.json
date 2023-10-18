@@ -60,7 +60,7 @@
     "showdown": "1.9.1",
     "styled-components": "5.3.0",
     "subscriptions-transport-ws": "0.9.19",
-    "suneditor": "^2.41.3",
+    "suneditor": "^2.45.1",
     "suneditor-react": "^3.3.0",
     "three-spritetext": "1.6.2",
     "typeface-roboto": "1.1.13",
